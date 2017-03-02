@@ -31,7 +31,7 @@ from recommender_package.utils.website import get_breweries
 from recommender_package.utils.website import get_dfs
 from recommender_package.utils.website import get_dfs_train
 from recommender_package.utils.website import group_by_letter
-from recommender_package.utils.website import feature_select
+from recommender_package.utils.munging import feature_select
 from recommender_package.utils.website import normalize
 from recommender_package.utils.website import vectorize
 
